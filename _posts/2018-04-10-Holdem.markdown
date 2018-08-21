@@ -4,7 +4,7 @@ title:      "德州扑克区块链解决方案"
 subtitle: "德州扑克（Texas hold'em，有时也简称为Hold'em或Holdem），简称德扑.是一个在全球很受欢迎的赌博游戏。"
 date:       2018-04-10 12:00:00
 author:     "Mage"
-header-img: "img/post-bg-apple-event-2015.jpg"
+header-img: "img/post-yu1.jpg"
 tags:
     - game
 ---
