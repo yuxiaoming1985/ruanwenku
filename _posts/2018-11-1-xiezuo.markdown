@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      "公司业务主要经营小红书 抖音 新闻营销 百度快排 微博 微信公众账号营销"
+title:      "微信公众号文章写作与代写"
 subtitle: "软文写作 软文发布。"
 date:       2018-04-10 12:00:00
 author:     "Mage"
 header-img: "img/post-yu1.jpg"
 tags:
     - 自由撰稿人、代写图文段子、承接各类商业约稿
-    
 
+
+---
 
 # 抖音推广
 
