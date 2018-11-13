@@ -8,7 +8,7 @@ header-img: "img/post-yu1.jpg"
 tags:
     - 自由撰稿人、代写图文段子、承接各类商业约稿
 
-
+<iframe width="480" height="360" src="https://www.youtube.com/embed/tcUbR0v4IQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 # 抖音推广
