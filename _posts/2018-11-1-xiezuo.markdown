@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "微信公众号文章写作与代写"
-subtitle: "软文写作 软文发布。"
+title:      "如何做淘宝的内容推广？"
+subtitle: "淘宝写作 公众号发布。"
 date:       2018-04-10 12:00:00
 author:     "Mage"
 header-img: "img/post-yu1.jpg"
