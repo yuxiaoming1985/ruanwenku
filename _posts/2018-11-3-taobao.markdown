@@ -1,14 +1,15 @@
 ---
-
 layout:     post
-
-title:      "如何做好淘宝的内容营销和SEO关键字优化"
-
-subtitle:   ""
-date:       2018-04-22 12:00:00
-author:     "如何做好淘宝的内容营销和SEO关键字优化"
-header-img: "img/post-bg-apple-event-2015.jpg"
+title:      "微信公众号文章写作与代写"
+subtitle: "软文写作 软文发布。"
+date:       2018-04-10 12:00:00
+author:     "Mage"
+header-img: "img/post-yu1.jpg"
 tags:
+    - 自由撰稿人、代写图文段子、承接各类商业约稿
+
+
+---
 
     - 本公司目前业务包含以下业务
 
