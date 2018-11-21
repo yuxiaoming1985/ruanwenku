@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "如何做淘宝的内容推广？"
+title:      "写作教学公开课之中国思想史发展"
 subtitle: "淘宝写作 公众号发布。"
 date:       2018-04-10 12:00:00
 author:     "Mage"
