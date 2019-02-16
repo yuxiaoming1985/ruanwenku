@@ -15,7 +15,7 @@ tags:
 ### 教你如何填词之原创歌词《自我晚熟》
 
 ```
-[原创内容](http://www.google.com/ "《自我晚熟》")
+[原创内容](https://mp.weixin.qq.com/s?__biz=MzA5MDg2OTUxNA==&mid=2653131556&idx=1&sn=cd57f72339d067ccbb23a9f8a22179f7&chksm=8bd22941bca5a0575d0e119d2ed56be6a1f97340c6b36d4ecd4ce658b2f4d6c8cc5195b6ba91&token=1658995288&lang=zh_CN#rd"《自我晚熟》")
 ```
 
 ![avatar]http://uploads.worldlibrary.org/uploads/userfiles/20151130143144qq__20150827002301_png.jpg
@@ -91,6 +91,6 @@ tags:
 
 
 
-[详情请看更多内容](http://www.google.com/ "《自我晚熟》")
+[详情请看更多内容](https://mp.weixin.qq.com/s?__biz=MzA5MDg2OTUxNA==&mid=2653131556&idx=1&sn=cd57f72339d067ccbb23a9f8a22179f7&chksm=8bd22941bca5a0575d0e119d2ed56be6a1f97340c6b36d4ecd4ce658b2f4d6c8cc5195b6ba91&token=1658995288&lang=zh_CN#rd "《自我晚熟》")
 
 企业触网营销联系热线13777235376（微信号同电话）QQ：59861312
