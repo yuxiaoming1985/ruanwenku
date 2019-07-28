@@ -8,19 +8,10 @@ header-img: "img/post-yu1.jpg"
 tags:
     - ​写作培训之中学生写作技法指导教程Z
 
-
-
 ---
 
 ### 
-
 # ​写作培训之中学生写作技法指导教程
-
-[![96](https://upload.jianshu.io/users/upload_avatars/11164752/78bc2c3c-6ecc-445a-baff-2f66884de9e8?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96)
-
-中学生汉代诗歌学习笔记
-
-原创： 自由撰稿人约稿 努努书坊 *3天前*
 
 **汉乐府民歌共138首，多产生于东汉。**
 
